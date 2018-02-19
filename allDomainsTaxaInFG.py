@@ -15,7 +15,7 @@ import collections
 workDir1 = "working directory" 
 
 infile_pfam27 = "%s/pfamA.txt"% (workDir1)
-infile1 = "%s/results_findingTaxaIdForPfamDomains.txt"% (workDir1)
+infile1 = "%s/results_findingTaxaIdForPfamDomains.txt"% (workDir1)#this file is not included in input files as to big for uploading into the the repository
 infile2 = "%s/all_no_pathogens.txt"% (workDir1)
 infile3 = "%s/fungi_pathogen.txt"% (workDir1)
 infile4 = "%s/plant_other_symbionts.txt"% (workDir1)
