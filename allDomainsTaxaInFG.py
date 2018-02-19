@@ -1,5 +1,5 @@
 ################################################################################################################################
-####                   THIS SCRIPTS CALCULATE TAXONOMIC DIVERSITY OF PFAM DOMAINS AND DUFs IN FG                            ####
+####                   THIS SCRIPT CALCULATES TAXONOMIC DIVERSITY OF PFAM DOMAINS AND DUFs IN FG                            ####
 ####                                       It is used in chapter 5 of the thesis                                            ####
 ####                It takes the output file from python script: "finding_taxaIds_for_pfam_domains.py", namely              ####
 ####          results_findingTaxaIdForPfamDomains.txt as one of the input file along with other input files listed below    ####
